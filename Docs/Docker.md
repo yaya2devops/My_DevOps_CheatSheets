@@ -3,3 +3,14 @@
 </p>
 
 ---
+
+
+
+
+
+
+---
+<p align="center">
+  <img src='/Media/Footer/DockerFooter.png' width='100%'>
+</p>
+

@@ -3,3 +3,10 @@
 </p>
 
 ---
+
+
+
+---
+<p align="center">
+  <img src='/Media/Footer/GitFooter.png' width='100%'>
+</p>
