@@ -13,7 +13,9 @@ for now i'm just getting started :))
 
 This repository will house my cheatsheets for the commands I use at work on DevOps tasks.
 
+<br>
 
+> Master the command line interface if you want to grasp computers.
 ---
 
 <p align="center">
