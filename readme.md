@@ -17,6 +17,6 @@ This repository will house my cheatsheets for the commands I use at work on DevO
 ---
 
 <p align="center">
-  <img src='footer.png' width='100%'>
+  <img src='footerV2.png' width='100%'>
 </p>
 
